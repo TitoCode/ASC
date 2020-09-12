@@ -46,10 +46,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Vista Capacitación\" />
     <Folder Include="Vista Desarrollo\" />
-    <Folder Include="Vista Nomina\" />
-    <Folder Include="Vista Reclutamiento\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Capa_Controlador\Capa_Controlador.csproj">
