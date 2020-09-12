@@ -46,7 +46,7 @@
   <ItemGroup>
     <Folder Include="Modelo Capacitación\" />
     <Folder Include="Modelo Desarrollo\" />
-    <Folder Include="Modelo Nómina\" />
+    <Folder Include="Modelo Nomina\" />
     <Folder Include="Modelo Reclutamiento\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

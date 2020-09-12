@@ -48,7 +48,7 @@
   <ItemGroup>
     <Folder Include="Vista Capacitación\" />
     <Folder Include="Vista Desarrollo\" />
-    <Folder Include="Vista Nómina\" />
+    <Folder Include="Vista Nomina\" />
     <Folder Include="Vista Reclutamiento\" />
   </ItemGroup>
   <ItemGroup>
