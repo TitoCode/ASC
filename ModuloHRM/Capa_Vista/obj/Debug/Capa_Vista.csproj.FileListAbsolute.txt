@@ -16,3 +16,14 @@ C:\Users\stmar\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileI
 C:\Users\stmar\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
 C:\Users\stmar\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.dll
 C:\Users\stmar\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.pdb
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Vista\bin\Debug\Capa_Vista.dll
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Vista\bin\Debug\Capa_Vista.pdb
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Vista\bin\Debug\Capa_Controlador.dll
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Vista\bin\Debug\Capa_Controlador.pdb
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.csprojAssemblyReference.cache
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompileInputs.cache
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.dll
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.pdb
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.Vista_Nomina.frmNomina.resources
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.csproj.GenerateResource.cache

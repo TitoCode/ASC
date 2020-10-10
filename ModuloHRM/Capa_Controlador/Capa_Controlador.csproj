@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controlador Desarrollo\" />
+    <Folder Include="Controlador Nomina\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Capa_Modelo\Capa_Modelo.csproj">

@@ -10,3 +10,9 @@ C:\Users\stmar\ASC\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.csprojAssemblyRef
 C:\Users\stmar\ASC\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.csproj.CoreCompileInputs.cache
 C:\Users\stmar\ASC\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.dll
 C:\Users\stmar\ASC\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.pdb
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.csprojAssemblyReference.cache
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.csproj.CoreCompileInputs.cache
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\CarlosAugusto\ASC\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.pdb

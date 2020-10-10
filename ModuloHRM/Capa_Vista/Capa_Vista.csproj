@@ -44,6 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vista Nomina\frmNomina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista Nomina\frmNomina.Designer.cs">
+      <DependentUpon>frmNomina.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Vista Desarrollo\" />
@@ -53,6 +59,11 @@
       <Project>{9155c9cd-1e86-4bbb-964c-7dda29064734}</Project>
       <Name>Capa_Controlador</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Vista Nomina\frmNomina.resx">
+      <DependentUpon>frmNomina.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
